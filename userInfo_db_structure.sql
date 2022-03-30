@@ -1,4 +1,4 @@
-CREATE TABLE userInfo_tb_structure(
+CREATE TABLE UserInfo(
   userId INT PRIMARY KEY,
   userName VARCHAR(80) NOT NULL,
   userEmail VARCHAR(80) NOT NULL,
